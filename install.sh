@@ -1,5 +1,8 @@
 #! /bin/bash
 
+# Install
+sudo apt-get install curl -y
+
 # Install i3wm and i3blocks
 sudo apt-get install i3 -y
 sudo apt-get install i3blocks -y
